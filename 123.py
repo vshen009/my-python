@@ -7,6 +7,7 @@ X = 5
 name = input('请输入名字:')
 height = input('请输入高度:(cm)')
 weight = input('请输入体重（KG）:')
-print("Hello!", name ," your high is:", height,"cm. 你的体重是 ", weight ,"KG")
 
+#打印出输入的身高体重和名字;
+print("Hello!", name ," your high is:", height,"cm. 你的体重是 ", weight ,"KG")
 
