@@ -23,4 +23,4 @@ git push remotename master
 #pull 设置过默认分支
 git pull
 
- 加入新的api接口写法，加入测试分支
+ 加入新的api接口写法，加入测试分支，又一次发布和合并
